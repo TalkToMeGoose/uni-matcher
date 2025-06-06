@@ -1,0 +1,17 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^LICENSE\.md$
+^CONTRIBUTING\.md$
+^NEWS\.md$
+^cran-comments\.md$
+^\.github$
+^\.DS_Store$
+^data-raw$
+^pkgdown$
+^docs$
+^analysis$
+^devhistory\.R$
+^devhistory\.html$
+^uniMatcher\.Rproj
+outputs/

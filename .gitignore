@@ -1,0 +1,42 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Renviron
+.Rprofile
+*.Rproj
+
+# Package development files
+*.tar.gz
+*.Rcheck/
+
+# macOS specific
+.DS_Store
+
+# Data files that might be large or sensitive (if any)
+# data/
+# inst/extdata/large_file.csv
+
+# Shiny app temp files (if any)
+# inst/app/rsconnect/
+
+# LaTeX temp files if generating vignettes
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Knitr cache
+*_cache/
+
+# renv specific (if used)
+renv/
+renv.lock
+
+# Temporary files
+*.tmp
+*~
+
+# Outputs directory (if created by Shiny app)
+outputs/
